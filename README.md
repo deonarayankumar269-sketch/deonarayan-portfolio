@@ -13,7 +13,7 @@ An editorial, motion-led React portfolio showcasing three real projects: CGPA Bo
 npm install
 npm run dev
 ```
-Open the local URL printed by Vite (usually http://localhost:5173).
+
 
 ## Production build
 ```bash
