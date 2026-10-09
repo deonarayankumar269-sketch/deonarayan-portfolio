@@ -1,5 +1,7 @@
 # Deonarayan Kumar — Portfolio
 
+live link:- https://vercel.com/deonarayankumar269-sketchs-projects/deonarayan-portfolio/2DPvqbm8kpEZMgYRwJv97xvuwvEv
+
 An editorial, motion-led React portfolio showcasing three real projects: CGPA Booster, AI Code Reviewer, and Countermeasure Lab Space.
 
 ## Requirements
